@@ -1,2 +1,4 @@
 # intersection
-Задание № 1
+Курс JavaScript, TypeScript, React 
+Задание № 1 
+Пересечение массивов
